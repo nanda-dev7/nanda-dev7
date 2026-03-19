@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack Learner | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;200%2B+DSA+Problems+Solved;Building+Projects+Consistently" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;200%2B+DSA+Problems+Solved;Building+Projects+Consistently" />
 </p>
 
 ---
@@ -22,124 +22,85 @@
 ## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
-<p align="center"><b>Java</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <b>Java</b> &nbsp; | &nbsp; <b>Python</b> &nbsp; | &nbsp; <b>C</b> &nbsp; | &nbsp; <b>JavaScript</b>
 </p>
-<p align="center"><b>Python</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-</p>
-<p align="center"><b>C</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-</p>
-<p align="center"><b>JavaScript</b></p>
 
 ---
 
 ## Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
-<p align="center"><b>React.js</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <b>React.js</b> &nbsp; | &nbsp; <b>Node.js</b> &nbsp; | &nbsp; <b>Express.js</b> &nbsp; | &nbsp; <b>Tailwind CSS</b>
 </p>
-<p align="center"><b>Node.js</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-</p>
-<p align="center"><b>Express.js</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-</p>
-<p align="center"><b>Tailwind CSS</b></p>
 
 ---
 
 ## Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-<p align="center"><b>MongoDB</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <b>MongoDB</b> &nbsp; | &nbsp; <b>MySQL</b>
 </p>
-<p align="center"><b>MySQL</b></p>
 
 ---
 
 ## Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
-<p align="center"><b>Git</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <b>Git</b> &nbsp; | &nbsp; <b>GitHub</b> &nbsp; | &nbsp; <b>VS Code</b> &nbsp; | &nbsp; <b>Vercel</b> &nbsp; | &nbsp; <b>Postman</b>
 </p>
-<p align="center"><b>GitHub</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-</p>
-<p align="center"><b>VS Code</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-</p>
-<p align="center"><b>Vercel</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-</p>
-<p align="center"><b>Postman</b></p>
 
 ---
 
 ## Featured Projects
 
 ### Habit Tracker & Streak System
-- Built a full-stack habit tracking application with streak logic and milestone-based rewards
-- Designed REST APIs and responsive UI components for habit management
+- Built a full-stack habit tracking application with streak logic and milestone-based rewards  
+- Designed REST APIs and responsive UI components for habit management  
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+
+---
 
 ### Personal Finance Tracker
-- Developed a finance tracking application to monitor income, expenses, and categorized transactions
-- Implemented real-time summaries with a clean and responsive interface
+- Developed a finance tracking application to monitor income and expenses  
+- Implemented categorized transactions and real-time summaries  
 
-**Tech Stack:** React.js, TypeScript, Vite
+**Tech Stack:** React.js, TypeScript  
 
-### AI Resume Analyzer (In Progress)
-- Building an AI-powered platform to analyze resumes and generate ATS-style feedback
-- Focused on identifying missing keywords and improving resumes for software roles
+---
 
-**Tech Stack:** MERN Stack, OpenAI API
+### AI Resume Analyzer (In Progress 🚧)
+- Building an AI-powered platform to analyze resumes and generate ATS-style feedback  
+- Focused on identifying missing keywords and improving resumes for software roles  
+
+**Tech Stack:** MERN Stack, OpenAI API  
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-dev7&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-dev7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -147,7 +108,7 @@
 ## Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nanda-dev7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nanda-dev7&theme=tokyonight" />
 </p>
 
 ---
@@ -156,6 +117,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivekanandanagireddy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vivekananda%20Reddy-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vivekananda%20Reddy-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
