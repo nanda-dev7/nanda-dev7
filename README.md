@@ -1,5 +1,5 @@
     
-<h1 align="center">Hi 👋, I'm Vivekananda Reddy</h1>
+<h1 align="center">Hi 👋, I'm Vivekananda Reddy</h1>    
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack Learner | DSA Enthusiast</h3>
 
 <p align="center">
