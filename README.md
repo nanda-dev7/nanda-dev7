@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Vivekananda Reddy</h1>
-<h3 align="center">Full-Stack Developer (MERN) | DSA Practitioner | Building Scalable Web Applications</h3>
+<h3 align="center">Full-Stack MERN Developer | DSA Practitioner | Building Real-World Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+MERN+Developer;200%2B+DSA+Problems+Solved;Consistent+Builder;Focused+on+Backend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+MERN+Developer;Backend+Focused+Engineer;200%2B+DSA+Problems+Solved;Building+Production-Level+Projects" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE @ Anurag University (2024–2028)
-- 💻 Solved **200+ DSA problems** across LeetCode, CodeChef, Codeforces & HackerRank  
-- 🔥 Maintained **50-day coding streak** on CodeChef  
-- ⚙️ Currently focused on **MERN stack & backend system design**  
-- 🤖 Exploring **AI integrations (OpenAI APIs)** in real-world applications  
-- 📈 Goal: Become a **production-level full-stack developer**
+- 🎓 B.Tech CSE @ Anurag University (2024–2028)  
+- 💻 Solved **200+ DSA problems** (LeetCode, Codeforces, CodeChef, HackerRank)  
+- 🔥 **50-day coding streak** on CodeChef  
+- ⚙️ Focused on **MERN stack + backend development**  
+- 🤖 Building **AI-powered applications using OpenAI APIs**  
+- 🎯 Goal: Crack **top SDE internships** with strong real-world projects  
+
+---
+
+## 🧠 What I’m Currently Doing
+
+- 🚀 Building **AI Resume Analyzer (Flagship Project)**
+- 📦 Strengthening **backend APIs & authentication systems**
+- 🧩 Practicing **DSA (Striver A2Z Sheet)**
+- ⚡ Improving **problem-solving speed via contests**
 
 ---
 
@@ -22,10 +31,10 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
@@ -35,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🚀 Tools & Platforms
+### 🚀 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
@@ -44,57 +53,53 @@
 
 ## 💼 Featured Projects
 
-### 🔹 Habit Tracker & Streak System
-- Built a **full-stack productivity application** with streak logic and milestone rewards  
-- Designed **RESTful APIs** and optimized state management for smooth UX  
-- Focused on **user retention features (streaks, progress tracking)**  
+### 🔥 AI Resume Analyzer (Flagship 🚀)
+- AI-powered platform to **analyze & optimize resumes for ATS**
+- Detects missing skills, gives **actionable feedback**
+- Generates **optimized resume bullet points**
+- Built as a **production-level MERN + AI system**
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-
----
-
-### 🔹 Personal Finance Tracker
-- Developed a **real-time expense tracking system** with categorized transactions  
-- Implemented **data visualization & summaries for financial insights**  
-- Focused on **clean UI and scalable state handling**  
-
-**Tech Stack:** React.js, TypeScript  
+👉 (Add Live Link Here After Deployment)
 
 ---
 
-### 🔹 AI Resume Analyzer (In Progress 🚧)
-- Building an **AI-powered resume analysis platform** for ATS optimization  
-- Features include:
-  - Resume scoring  
-  - Skill gap detection  
-  - AI-based resume rewriting  
-- Designed as a **production-level MERN + AI project**  
+### 📊 Habit Tracker & Streak System
+- Full-stack app with **streak tracking & reward system**
+- Designed for **user retention & consistency tracking**
+- Built scalable REST APIs
 
-**Tech Stack:** MERN Stack, OpenAI API  
+👉 https://integrated-project8.vercel.app/
+
+---
+
+### 💰 Personal Finance Tracker
+- Tracks **income, expenses, and categories**
+- Provides **real-time summaries & insights**
+- Clean UI + efficient state management
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-dev7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nanda-dev7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Consistency
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?username=nanda-dev7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=nanda-dev7&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivekanandanagireddy/" target="_blank">
