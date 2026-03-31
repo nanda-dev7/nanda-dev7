@@ -1,99 +1,80 @@
-    
-<h1 align="center">Hi 👋, I'm Vivekananda Reddy</h1>    
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Learner | DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Vivekananda Reddy</h1>
+<h3 align="center">Full-Stack Developer (MERN) | DSA Practitioner | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;200%2B+DSA+Problems+Solved;Building+Projects+Consistently" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+MERN+Developer;200%2B+DSA+Problems+Solved;Consistent+Builder;Focused+on+Backend+Systems" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- B.Tech in Computer Science and Engineering at Anurag University (2024–2028)
-- Solved 200+ DSA problems across LeetCode, CodeChef, Codeforces, and HackerRank
-- Maintained a 50-day coding streak on CodeChef
-- Currently learning MERN stack and backend development
-- Exploring AI integrations using OpenAI APIs
-- Actively building projects to strengthen development skills
+- 🎓 B.Tech CSE @ Anurag University (2024–2028)
+- 💻 Solved **200+ DSA problems** across LeetCode, CodeChef, Codeforces & HackerRank  
+- 🔥 Maintained **50-day coding streak** on CodeChef  
+- ⚙️ Currently focused on **MERN stack & backend system design**  
+- 🤖 Exploring **AI integrations (OpenAI APIs)** in real-world applications  
+- 📈 Goal: Become a **production-level full-stack developer**
 
 ---
 
-## Languages
+## 🛠️ Tech Stack
 
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
-<p align="center">
-  <b>Java</b> &nbsp; | &nbsp; <b>Python</b> &nbsp; | &nbsp; <b>C</b> &nbsp; | &nbsp; <b>JavaScript</b>
-</p>
-
----
-
-## Frameworks & Libraries
-
+### ⚙️ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
 
-<p align="center">
-  <b>React.js</b> &nbsp; | &nbsp; <b>Node.js</b> &nbsp; | &nbsp; <b>Express.js</b> &nbsp; | &nbsp; <b>Tailwind CSS</b>
-</p>
-
----
-
-## Databases
-
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<p align="center">
-  <b>MongoDB</b> &nbsp; | &nbsp; <b>MySQL</b>
-</p>
-
----
-
-## Tools & Platforms
-
+### 🚀 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
-<p align="center">
-  <b>Git</b> &nbsp; | &nbsp; <b>GitHub</b> &nbsp; | &nbsp; <b>VS Code</b> &nbsp; | &nbsp; <b>Vercel</b> &nbsp; | &nbsp; <b>Postman</b>
-</p>
-
 ---
 
-## Featured Projects
+## 💼 Featured Projects
 
-### Habit Tracker & Streak System
-- Built a full-stack habit tracking application with streak logic and milestone-based rewards  
-- Designed REST APIs and responsive UI components for habit management  
+### 🔹 Habit Tracker & Streak System
+- Built a **full-stack productivity application** with streak logic and milestone rewards  
+- Designed **RESTful APIs** and optimized state management for smooth UX  
+- Focused on **user retention features (streaks, progress tracking)**  
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
 
 ---
 
-### Personal Finance Tracker
-- Developed a finance tracking application to monitor income and expenses  
-- Implemented categorized transactions and real-time summaries  
+### 🔹 Personal Finance Tracker
+- Developed a **real-time expense tracking system** with categorized transactions  
+- Implemented **data visualization & summaries for financial insights**  
+- Focused on **clean UI and scalable state handling**  
 
 **Tech Stack:** React.js, TypeScript  
 
 ---
 
-### AI Resume Analyzer (In Progress 🚧)
-- Building an AI-powered platform to analyze resumes and generate ATS-style feedback  
-- Focused on identifying missing keywords and improving resumes for software roles  
+### 🔹 AI Resume Analyzer (In Progress 🚧)
+- Building an **AI-powered resume analysis platform** for ATS optimization  
+- Features include:
+  - Resume scoring  
+  - Skill gap detection  
+  - AI-based resume rewriting  
+- Designed as a **production-level MERN + AI project**  
 
 **Tech Stack:** MERN Stack, OpenAI API  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight" />
@@ -105,7 +86,7 @@
 
 ---
 
-## Streak Stats
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nanda-dev7&theme=tokyonight" />
@@ -113,7 +94,7 @@
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivekanandanagireddy/" target="_blank">
