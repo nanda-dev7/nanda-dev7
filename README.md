@@ -78,16 +78,7 @@
 - Clean UI + efficient state management
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nanda-dev7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nanda-dev7&layout=compact&theme=tokyonight" />
-</p>
+>
 
 ---
 
