@@ -89,7 +89,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nanda-dev7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?username=nanda-dev7&theme=tokyonight" />
 </p>
 
 ---
