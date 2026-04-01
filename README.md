@@ -59,7 +59,7 @@
 - Generates **optimized resume bullet points**
 - Built as a **production-level MERN + AI system**
 
-👉 (Add Live Link Here After Deployment)
+
 
 ---
 
