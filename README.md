@@ -13,8 +13,7 @@
 - 💻 Solved **200+ DSA problems** (LeetCode, Codeforces, CodeChef, HackerRank)  
 - 🔥 **50-day coding streak** on CodeChef  
 - ⚙️ Focused on **MERN stack + backend development**  
-- 🤖 Building **AI-powered applications using OpenAI APIs**  
-- 🎯 Goal: Crack **top SDE internships** with strong real-world projects  
+- 🤖 Building **AI-powered applications using OpenAI APIs**   
 
 ---
 
@@ -22,7 +21,7 @@
 
 - 🚀 Building **AI Resume Analyzer (Flagship Project)**
 - 📦 Strengthening **backend APIs & authentication systems**
-- 🧩 Practicing **DSA (Striver A2Z Sheet)**
+- 🧩 Practicing **DSA**
 - ⚡ Improving **problem-solving speed via contests**
 
 ---
